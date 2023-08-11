@@ -51,6 +51,10 @@ body{
 
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .container {
     width:100%;
     padding:o 15px;
